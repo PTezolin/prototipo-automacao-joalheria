@@ -96,3 +96,13 @@ O desenvolvimento do protótipo passou por diversas fases, iniciando com wirefra
 
 <p align="center"><em>Fonte: O Autor, 2025.</em></p>
 
+### 📅 Tela de Calendário
+
+<p align="center"><strong>Figura 12 – Tela de calendário com visualização das datas de entrega dos consertos</strong></p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/bee903bd-4cd5-4ba4-b902-4eb9df0e3766" alt="Tela de Calendário" width="700">
+</p>
+
+<p align="center"><em>Fonte: O Autor, 2025.</em></p>
+
