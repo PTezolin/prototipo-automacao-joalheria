@@ -24,9 +24,12 @@ O desenvolvimento do protótipo passou por diversas fases, iniciando com wirefra
 
 <p align="center"><strong>Figura 2 – Protótipo em média fidelidade após primeira rodada de feedbacks</strong></p>
 
-![Image](https://github.com/user-attachments/assets/7bb613a9-bab1-4680-b19f-e83996f9b83c)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/7bb613a9-bab1-4680-b19f-e83996f9b83c" width="700">
+</p>
 
 <p align="center"><em>Fonte: O Autor, 2025.</em></p>
+
 
 
 
