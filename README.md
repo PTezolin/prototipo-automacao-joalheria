@@ -53,7 +53,7 @@ O desenvolvimento do protótipo passou por diversas fases, iniciando com wirefra
 <p align="center"><strong>Figura 4 – Tela inicial com formulário unificado de cadastro</strong></p>
 
 <p align="center">
-  <img src="imagens/tela-inicial.png" alt="Tela Inicial">
+  <img src="https://github.com/user-attachments/assets/3e02e8e0-bbec-4190-95c7-65dd642de897" alt="Tela Inicial" width="700">
 </p>
 
 <p align="center"><em>Fonte: O Autor, 2025.</em></p>
