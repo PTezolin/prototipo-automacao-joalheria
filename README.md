@@ -10,7 +10,7 @@ O desenvolvimento do protótipo passou por diversas fases, iniciando com wirefra
 
 ### 🔹 Visão Geral – Baixa Fidelidade
 
-<p align="center"><strong>Figura 1 – Protótipo em baixa fidelidade (wireframe digital)</strong></p>
+<p align="center"><strong>Figura 1 – Protótipo em baixa fidelidade</strong></p>
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/5ba83930-a357-4be3-a9bd-7bca9a117bc3" width="700">
@@ -60,7 +60,7 @@ O desenvolvimento do protótipo passou por diversas fases, iniciando com wirefra
 
 
 
-### ⏳ Consertos Pendentes
+### ⏳ Tela Consertos Pendentes
 
 <p align="center"><strong>Figura 5 – Visualização dos consertos pendentes com filtros e ações</strong></p>
 
@@ -72,7 +72,7 @@ O desenvolvimento do protótipo passou por diversas fases, iniciando com wirefra
 
 
 
-### ✅ Consertos Concluídos
+### ✅ Tela Consertos Concluídos
 
 <p align="center"><strong>Figura 6 – Tela de acompanhamento dos consertos finalizados</strong></p>
 
