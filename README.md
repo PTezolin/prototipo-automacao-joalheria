@@ -31,6 +31,7 @@
 </p>
 <p align="center"><em>Fonte: O Autor, 2025.</em></p>
 <br><br>
+
 ## 💻 Telas Principais – Alta Fidelidade
 
 ### 🏠 Tela Inicial
