@@ -114,6 +114,6 @@ O desenvolvimento do protótipo passou por diversas fases, iniciando com wirefra
 </p>
 <p align="center"><em>Fonte: O Autor, 2025.</em></p>
 
----
+----
 
 Para fins de consulta e transparência, o protótipo desenvolvido encontra-se disponível publicamente em duas versões complementares. A primeira, hospedada no [Figma](https://www.figma.com), permite acesso completo ao ambiente de design, incluindo os fluxos de navegação, a organização das telas e os elementos visuais utilizados na construção do sistema. Já a segunda versão oferece uma [visualização interativa do protótipo](https://www.figma.com/proto/SEU-LINK-AQUI) em modo de apresentação, possibilitando a navegação simulada entre as telas, como seria em uma aplicação real. Ambas as opções proporcionam uma experiência imersiva da proposta desenvolvida e estão vinculadas à fase final de prototipagem do TCC.
