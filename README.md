@@ -13,7 +13,7 @@ O desenvolvimento do protótipo passou por diversas fases, iniciando com wirefra
 <p align="center"><strong>Figura 1 – Protótipo em baixa fidelidade (wireframe digital)</strong></p>
 
 <p align="center">
-  <img src="imagens/visao-geral-baixa.png" alt="Baixa Fidelidade">
+  <img src="https://github.com/user-attachments/assets/5ba83930-a357-4be3-a9bd-7bca9a117bc3" width="700">
 </p>
 
 <p align="center"><em>Fonte: O Autor, 2025.</em></p>
