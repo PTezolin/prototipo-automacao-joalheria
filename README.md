@@ -10,31 +10,37 @@ O desenvolvimento do protótipo passou por diversas fases, iniciando com wirefra
 
 ### 🔹 Visão Geral – Baixa Fidelidade
 
-Figura 1 – Protótipo em baixa fidelidade (wireframe digital)
+<p align="center"><strong>Figura 1 – Protótipo em baixa fidelidade (wireframe digital)</strong></p>
 
-![Baixa Fidelidade](imagens/visao-geral-baixa.png)
+<p align="center">
+  <img src="imagens/visao-geral-baixa.png" alt="Baixa Fidelidade">
+</p>
 
-Fonte: O Autor, 2025.
+<p align="center"><em>Fonte: O Autor, 2025.</em></p>
 
 
 
 ### 🔹 Visão Geral – Média Fidelidade
 
-Figura 2 – Protótipo em média fidelidade após primeira rodada de feedbacks
+<p align="center"><strong>Figura 2 – Protótipo em média fidelidade após primeira rodada de feedbacks</strong></p>
 
-![Média Fidelidade](imagens/visao-geral-media.png)
+<p align="center">
+  <img src="imagens/visao-geral-media.png" alt="Média Fidelidade">
+</p>
 
-Fonte: O Autor, 2025.
+<p align="center"><em>Fonte: O Autor, 2025.</em></p>
 
 
 
 ### 🔹 Visão Geral – Alta Fidelidade
 
-Figura 3 – Protótipo em alta fidelidade com elementos refinados
+<p align="center"><strong>Figura 3 – Protótipo em alta fidelidade com elementos refinados</strong></p>
 
-![Alta Fidelidade](imagens/visao-geral-alta.png)
+<p align="center">
+  <img src="imagens/visao-geral-alta.png" alt="Alta Fidelidade">
+</p>
 
-Fonte: O Autor, 2025.
+<p align="center"><em>Fonte: O Autor, 2025.</em></p>
 
 
 
@@ -43,58 +49,70 @@ Fonte: O Autor, 2025.
 
 ### 🏠 Tela Inicial
 
-Figura 4 – Tela inicial com formulário unificado de cadastro
+<p align="center"><strong>Figura 4 – Tela inicial com formulário unificado de cadastro</strong></p>
 
-![Tela Inicial](imagens/tela-inicial.png)
+<p align="center">
+  <img src="imagens/tela-inicial.png" alt="Tela Inicial">
+</p>
 
-Fonte: O Autor, 2025.
+<p align="center"><em>Fonte: O Autor, 2025.</em></p>
 
 
 
 ### ⏳ Consertos Pendentes
 
-Figura 5 – Visualização dos consertos pendentes com filtros e ações
+<p align="center"><strong>Figura 5 – Visualização dos consertos pendentes com filtros e ações</strong></p>
 
-![Consertos Pendentes](imagens/tela-pendentes.png)
+<p align="center">
+  <img src="imagens/tela-pendentes.png" alt="Consertos Pendentes">
+</p>
 
-Fonte: O Autor, 2025.
+<p align="center"><em>Fonte: O Autor, 2025.</em></p>
 
 
 
 ### ✅ Consertos Concluídos
 
-Figura 6 – Tela de acompanhamento dos consertos finalizados
+<p align="center"><strong>Figura 6 – Tela de acompanhamento dos consertos finalizados</strong></p>
 
-![Consertos Concluídos](imagens/tela-concluidos.png)
+<p align="center">
+  <img src="imagens/tela-concluidos.png" alt="Consertos Concluídos">
+</p>
 
-Fonte: O Autor, 2025.
+<p align="center"><em>Fonte: O Autor, 2025.</em></p>
 
 
 
 ### 🔍 Tela de Visualização Detalhada
 
-Figura 7 – Detalhes completos de cada conserto registrado
+<p align="center"><strong>Figura 7 – Detalhes completos de cada conserto registrado</strong></p>
 
-![Visualização](imagens/tela-visualizacao.png)
+<p align="center">
+  <img src="imagens/tela-visualizacao.png" alt="Tela de Visualização">
+</p>
 
-Fonte: O Autor, 2025.
+<p align="center"><em>Fonte: O Autor, 2025.</em></p>
 
 
 
 ### ✏️ Tela de Edição
 
-Figura 8 – Interface para edição de registros já cadastrados
+<p align="center"><strong>Figura 8 – Interface para edição de registros já cadastrados</strong></p>
 
-![Edição](imagens/tela-edicao.png)
+<p align="center">
+  <img src="imagens/tela-edicao.png" alt="Tela de Edição">
+</p>
 
-Fonte: O Autor, 2025.
+<p align="center"><em>Fonte: O Autor, 2025.</em></p>
 
 
 
 ### 🗑️ Tela de Exclusão
 
-Figura 9 – Confirmação de exclusão de consertos no sistema
+<p align="center"><strong>Figura 9 – Confirmação de exclusão de consertos no sistema</strong></p>
 
-![Exclusão](imagens/tela-exclusao.png)
+<p align="center">
+  <img src="imagens/tela-exclusao.png" alt="Tela de Exclusão">
+</p>
 
-Fonte: O Autor, 2025.
+<p align="center"><em>Fonte: O Autor, 2025.</em></p>
