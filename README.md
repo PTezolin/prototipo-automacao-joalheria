@@ -50,15 +50,15 @@ O desenvolvimento do protótipo passou por diversas fases, iniciando com wirefra
 
 <p align="center"><strong>Figura 6 – Visualização dos consertos pendentes com filtros e ações</strong></p>
 <p align="center">
-  <img src="imagens/tela-pendentes.png" alt="Consertos Pendentes">
+  <img src="https://github.com/user-attachments/assets/8b9ad212-7644-40b6-a294-f91eade7265e" alt="Consertos Pendentes" width="700">
 </p>
 <p align="center"><em>Fonte: O Autor, 2025.</em></p>
 
-### ✅ Tela Consertos Concluídos
+### ✅ Tela Consertos Retirados
 
 <p align="center"><strong>Figura 7 – Tela de acompanhamento dos consertos finalizados</strong></p>
 <p align="center">
-  <img src="imagens/tela-concluidos.png" alt="Consertos Concluídos">
+  <img src="https://github.com/user-attachments/assets/6ef4f83c-3d90-4518-b73a-58ca799277fe" alt="Consertos Retirados" width="700">
 </p>
 <p align="center"><em>Fonte: O Autor, 2025.</em></p>
 
@@ -66,7 +66,7 @@ O desenvolvimento do protótipo passou por diversas fases, iniciando com wirefra
 
 <p align="center"><strong>Figura 8 – Detalhes completos de cada conserto registrado</strong></p>
 <p align="center">
-  <img src="imagens/tela-visualizacao.png" alt="Tela de Visualização">
+  <img src="imagens/tela-visualizacao.png" alt="Tela de Visualização" width="700">
 </p>
 <p align="center"><em>Fonte: O Autor, 2025.</em></p>
 
@@ -74,7 +74,7 @@ O desenvolvimento do protótipo passou por diversas fases, iniciando com wirefra
 
 <p align="center"><strong>Figura 9 – Interface para edição de registros já cadastrados</strong></p>
 <p align="center">
-  <img src="imagens/tela-edicao.png" alt="Tela de Edição">
+  <img src="imagens/tela-edicao.png" alt="Tela de Edição" width="700">
 </p>
 <p align="center"><em>Fonte: O Autor, 2025.</em></p>
 
@@ -82,6 +82,6 @@ O desenvolvimento do protótipo passou por diversas fases, iniciando com wirefra
 
 <p align="center"><strong>Figura 10 – Confirmação de exclusão de consertos no sistema</strong></p>
 <p align="center">
-  <img src="imagens/tela-exclusao.png" alt="Tela de Exclusão">
+  <img src="imagens/tela-exclusao.png" alt="Tela de Exclusão" width="700">
 </p>
 <p align="center"><em>Fonte: O Autor, 2025.</em></p>
