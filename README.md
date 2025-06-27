@@ -85,3 +85,14 @@ O desenvolvimento do protótipo passou por diversas fases, iniciando com wirefra
   <img src="imagens/tela-exclusao.png" alt="Tela de Exclusão" width="700">
 </p>
 <p align="center"><em>Fonte: O Autor, 2025.</em></p>
+
+### ⭐ Tela de Serviços Favoritos
+
+<p align="center"><strong>Figura 11 – Tela de serviços favoritos com acesso rápido aos principais consertos</strong></p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/60f33edb-c897-48a8-a075-a4846a4b6cc3" alt="Tela de Serviços Favoritos" width="700">
+</p>
+
+<p align="center"><em>Fonte: O Autor, 2025.</em></p>
+
