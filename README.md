@@ -1,2 +1,3 @@
-# prototipo-automacao-joalheria
-Protótipo de sistema web para gestão de consertos em joalheria, desenvolvido como parte de um TCC. O projeto representa a fase anterior à implementação, focando na automação dos registros e na substituição dos formulários físicos por uma solução digital eficiente.
+# 💼 Protótipo – Automação de Processos em Joalheria
+
+Este repositório apresenta um protótipo de sistema web voltado à gestão de consertos em joias e relógios, desenvolvido como parte de um Trabalho de Conclusão de Curso (TCC). O projeto representa a fase anterior à implementação, com foco na digitalização dos registros e na substituição dos formulários físicos por uma solução mais eficiente e organizada.
