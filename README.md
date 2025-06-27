@@ -56,7 +56,7 @@ O desenvolvimento do protótipo passou por diversas fases, iniciando com wirefra
 
 ### ✅ Tela Consertos Retirados
 
-<p align="center"><strong>Figura 7 – Tela de acompanhamento dos consertos finalizados</strong></p>
+<p align="center"><strong>Figura 7 – Tela de acompanhamento dos consertos retirados</strong></p>
 <p align="center">
   <img src="https://github.com/user-attachments/assets/6ef4f83c-3d90-4518-b73a-58ca799277fe" alt="Consertos Retirados" width="700">
 </p>
@@ -64,15 +64,21 @@ O desenvolvimento do protótipo passou por diversas fases, iniciando com wirefra
 
 ### 🔍 Tela de Visualização Detalhada
 
-<p align="center"><strong>Figura 8 – Detalhes completos de cada conserto registrado</strong></p>
+<p align="center"><strong>Figura 8 – Detalhes completos de cada conserto registrado – joias</strong></p>
 <p align="center">
-  <img src="imagens/tela-visualizacao.png" alt="Tela de Visualização" width="700">
+  <img src="https://github.com/user-attachments/assets/94acd52c-7ff9-4124-890d-a7c776a5c4a7" alt="Tela de Visualização – Joias" width="700">
+</p>
+<p align="center"><em>Fonte: O Autor, 2025.</em></p>
+
+<p align="center"><strong>Figura 9 – Detalhes completos de cada conserto registrado – relógios</strong></p>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/6e783733-30c1-4bed-9cd2-0013d0f2e56a" alt="Tela de Visualização – Relógios" width="700">
 </p>
 <p align="center"><em>Fonte: O Autor, 2025.</em></p>
 
 ### ✏️ Tela de Edição
 
-<p align="center"><strong>Figura 9 – Interface para edição de registros já cadastrados</strong></p>
+<p align="center"><strong>Figura 10 – Interface para edição de registros já cadastrados</strong></p>
 <p align="center">
   <img src="imagens/tela-edicao.png" alt="Tela de Edição" width="700">
 </p>
@@ -80,7 +86,7 @@ O desenvolvimento do protótipo passou por diversas fases, iniciando com wirefra
 
 ### 🗑️ Tela de Exclusão
 
-<p align="center"><strong>Figura 10 – Confirmação de exclusão de consertos no sistema</strong></p>
+<p align="center"><strong>Figura 11 – Confirmação de exclusão de consertos no sistema</strong></p>
 <p align="center">
   <img src="imagens/tela-exclusao.png" alt="Tela de Exclusão" width="700">
 </p>
@@ -88,21 +94,18 @@ O desenvolvimento do protótipo passou por diversas fases, iniciando com wirefra
 
 ### ⭐ Tela de Serviços Favoritos
 
-<p align="center"><strong>Figura 11 – Tela de serviços favoritos com acesso rápido aos principais consertos</strong></p>
-
+<p align="center"><strong>Figura 12 – Tela de serviços favoritos com acesso rápido aos principais consertos</strong></p>
 <p align="center">
   <img src="https://github.com/user-attachments/assets/60f33edb-c897-48a8-a075-a4846a4b6cc3" alt="Tela de Serviços Favoritos" width="700">
 </p>
-
 <p align="center"><em>Fonte: O Autor, 2025.</em></p>
 
 ### 📅 Tela de Calendário
 
-<p align="center"><strong>Figura 12 – Tela de calendário com visualização das datas de entrega dos consertos</strong></p>
-
+<p align="center"><strong>Figura 13 – Tela de calendário com visualização das datas de entrega dos consertos</strong></p>
 <p align="center">
   <img src="https://github.com/user-attachments/assets/bee903bd-4cd5-4ba4-b902-4eb9df0e3766" alt="Tela de Calendário" width="700">
 </p>
-
 <p align="center"><em>Fonte: O Autor, 2025.</em></p>
+
 
