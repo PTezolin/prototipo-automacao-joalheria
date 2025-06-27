@@ -25,7 +25,7 @@ O desenvolvimento do protótipo passou por diversas fases, iniciando com wirefra
 <p align="center"><strong>Figura 2 – Protótipo em média fidelidade após primeira rodada de feedbacks</strong></p>
 
 <p align="center">
-  <img src="imagens/visao-geral-media.png" alt="Média Fidelidade">
+  <img src="prototipo-automacao-joalheria/Média Fidelidade/Protótipo em média fidelidade após primeira rodada de feedbacks" alt="Média Fidelidade">
 </p>
 
 <p align="center"><em>Fonte: O Autor, 2025.</em></p>
