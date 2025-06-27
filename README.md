@@ -30,7 +30,7 @@
   <img src="https://github.com/user-attachments/assets/188bb6de-e896-4138-9910-55bf19c397da" width="700">
 </p>
 <p align="center"><em>Fonte: O Autor, 2025.</em></p>
-
+<br><br>
 ## 💻 Telas Principais – Alta Fidelidade
 
 ### 🏠 Tela Inicial
@@ -114,5 +114,5 @@
   <img src="https://github.com/user-attachments/assets/bee903bd-4cd5-4ba4-b902-4eb9df0e3766" alt="Tela de Calendário" width="700">
 </p>
 <p align="center"><em>Fonte: O Autor, 2025.</em></p>
-
+<br><br>
 &nbsp;&nbsp;&nbsp;&nbsp;Para fins de consulta e transparência, o protótipo desenvolvido encontra-se disponível publicamente em duas versões complementares. A primeira, hospedada no [Figma](https://www.figma.com), permite acesso completo ao ambiente de design, incluindo os fluxos de navegação, a organização das telas e os elementos visuais utilizados na construção do sistema. Já a segunda versão oferece uma [visualização interativa do protótipo](https://www.figma.com/proto/SEU-LINK-AQUI) em modo de apresentação, possibilitando a navegação simulada entre as telas, como seria em uma aplicação real. Ambas as opções proporcionam uma experiência imersiva da proposta desenvolvida e estão vinculadas à fase final de prototipagem do TCC.
