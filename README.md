@@ -26,7 +26,7 @@ O desenvolvimento do protótipo passou por diversas fases, iniciando com wirefra
 
 <p align="center"><strong>Figura 3 – Protótipo em alta fidelidade com elementos refinados</strong></p>
 <p align="center">
-  <img src="imagens/visao-geral-alta.png" alt="Alta Fidelidade">
+  <img src="https://github.com/user-attachments/assets/188bb6de-e896-4138-9910-55bf19c397da">
 </p>
 <p align="center"><em>Fonte: O Autor, 2025.</em></p>
 
