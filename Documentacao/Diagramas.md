@@ -1,6 +1,6 @@
 # Diagramas do Sistema
 
-Este documento apresenta os principais diagramas utilizados no projeto de desenvolvimento do protótipo do sistema de gestão de consertos em joias e relógios, organizados em ordem alfabética.
+Este documento apresenta os principais diagramas elaborados durante o desenvolvimento do protótipo do sistema de gestão de consertos em joias e relógios. Cada representação foi construída com base em um ponto de vista específico da arquitetura do sistema, permitindo a visualização de diferentes aspectos estruturais, comportamentais e funcionais da solução proposta.
 
 
 ### 📋 Diagrama de Caso de Uso
