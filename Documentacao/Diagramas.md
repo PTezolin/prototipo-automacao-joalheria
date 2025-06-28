@@ -27,7 +27,7 @@ Este documento apresenta os principais diagramas utilizados no projeto de desenv
 
 <p align="center"><strong>Figura 3 – Diagrama Entidade-Relacionamento do banco de dados</strong></p>
 <p align="center">
-  <img src="" width="700">
+  <img src="https://github.com/user-attachments/assets/1f2a2a4f-5ec9-4ee8-a25a-5a4b93b00014" width="700">
 </p>
 <p align="center"><em>Fonte: O Autor, 2025.</em></p>
 
