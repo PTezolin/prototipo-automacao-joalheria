@@ -1,6 +1,7 @@
 # Levantamento de Requisitos
 
 O levantamento de requisitos foi conduzido com base na observação das rotinas da joalheria e em conversas diretas com os funcionários envolvidos nas etapas de registro e acompanhamento de consertos. A partir dessa análise, foi possível identificar um conjunto de necessidades fundamentais que norteiam o desenvolvimento do sistema proposto, visando substituir os processos manuais por uma solução digital mais eficiente, segura e adaptada à realidade da empresa.
+<br>
 
 ## Necessidades do Sistema
 
@@ -26,6 +27,8 @@ A seguir, são apresentadas as necessidades funcionais e não funcionais organiz
 | NE16   | Integrar um canal de comunicação interna entre setores.                  |
 | NE17   | Estabelecer padrões mínimos de desempenho.                               |
 | NE18   | Gerar relatórios automáticos e analíticos.                               |
+
+<br>
 
 ## Requisitos Funcionais
 
@@ -54,6 +57,8 @@ Os requisitos funcionais definem as funcionalidades que o sistema deve ser capaz
 | RF19   | Validar o número de telefone.                                             |
 | RF20   | Validar se o usuário informou o valor corretamente.                       |
 
+<br>
+
 ## Regras de Negócio
 
 As regras de negócio representam diretrizes específicas definidas com base nas práticas da joalheria e nas necessidades operacionais identificadas. Diferentemente dos requisitos funcionais, essas regras delimitam comportamentos obrigatórios do sistema, assegurando conformidade com os procedimentos internos, a padronização do fluxo de trabalho e a integridade dos registros.
@@ -70,6 +75,8 @@ As regras de negócio representam diretrizes específicas definidas com base nas
 | RN08   | Histórico inalterável e disponível apenas para visualização.             |
 | RN09   | Emitir comprovantes de entrada e retirada é obrigatório.                  |
 | RN10   | Exibir consertos com entrega nos próximos dias.                           |
+
+<br>
 
 ## Requisitos Não Funcionais
 
