@@ -5,7 +5,7 @@ O levantamento de requisitos foi conduzido com base na observação das rotinas 
 
 ## Necessidades do Sistema
 
-A seguir, são apresentadas as necessidades funcionais e não funcionais organizadas por categoria. Esta seção contempla inicialmente os requisitos identificados como essenciais para o funcionamento do sistema.
+As necessidades do sistema correspondem a requisitos iniciais identificados durante a análise do contexto da joalheria, abrangendo tanto aspectos funcionais quanto não funcionais de forma ampla. Esses elementos serviram como base para o delineamento das funcionalidades, restrições e expectativas relacionadas ao desempenho e à usabilidade da solução, orientando as etapas subsequentes do desenvolvimento.
 
 |        | Necessidades do Sistema                                                   |
 |--------|---------------------------------------------------------------------------|
