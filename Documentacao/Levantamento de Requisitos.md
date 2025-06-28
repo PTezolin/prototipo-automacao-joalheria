@@ -6,7 +6,7 @@ O levantamento de requisitos foi conduzido com base na observação das rotinas 
 
 A seguir, são apresentadas as necessidades funcionais e não funcionais organizadas por categoria. Esta seção contempla inicialmente os requisitos identificados como essenciais para o funcionamento do sistema.
 
-| Código | Descrição                                                                 |
+|        | Necessidades do Sistema                                                   |
 |--------|---------------------------------------------------------------------------|
 | NE01   | Substituir registros manuais por sistema digital.                        |
 | NE02   | Executar o sistema em ambiente online.                                   |
@@ -31,7 +31,7 @@ A seguir, são apresentadas as necessidades funcionais e não funcionais organiz
 
 Os requisitos funcionais definem as funcionalidades que o sistema deve ser capaz de executar para atender às necessidades operacionais da joalheria. Eles representam as ações essenciais relacionadas ao cadastro, controle, comunicação, processamento e apresentação das informações no ambiente digital.
 
-| Código | Descrição                                                                 |
+|        | Requisitos Funcionais                                                     |
 |--------|---------------------------------------------------------------------------|
 | RF01   | Permitir o cadastro de novos reparos.                                     |
 | RF02   | Definir campos obrigatórios no cadastro do reparo.                        |
@@ -58,7 +58,7 @@ Os requisitos funcionais definem as funcionalidades que o sistema deve ser capaz
 
 As regras de negócio representam diretrizes específicas definidas com base nas práticas da joalheria e nas necessidades operacionais identificadas. Diferentemente dos requisitos funcionais, essas regras delimitam comportamentos obrigatórios do sistema, assegurando conformidade com os procedimentos internos, a padronização do fluxo de trabalho e a integridade dos registros.
 
-| Código | Descrição                                                                 |
+|        | Regras de Negócio                                                         |
 |--------|---------------------------------------------------------------------------|
 | RN01   | Reparo deve ter tipo e subcategoria definidos.                            |
 | RN02   | Cada reparo recebe um número de ordem único.                              |
@@ -75,7 +75,7 @@ As regras de negócio representam diretrizes específicas definidas com base nas
 
 Os requisitos não funcionais especificam atributos de qualidade e características técnicas que o sistema deve apresentar para garantir desempenho, usabilidade, escalabilidade e compatibilidade. Embora não estejam diretamente relacionados às funcionalidades, esses requisitos exercem papel fundamental na experiência do usuário e na eficiência da solução proposta.
 
-| Código | Descrição                                                                 |
+|        | Requisitos Não Funcionais                                                 |
 |--------|---------------------------------------------------------------------------|
 | RNF01  | O sistema deve possuir uma interface simples, com no máximo 12 campos no formulário. |
 | RNF02  | O sistema deve ser executado de forma on-line.                            |
