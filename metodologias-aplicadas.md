@@ -2,7 +2,7 @@
 
 Neste documento, apresentam-se os quadros Trello que representam as metodologias utilizadas no desenvolvimento do protótipo do sistema de gestão de consertos em joias e relógios.
 
-<br><br>
+<br>
 
 ### 📋 Quadro Trello – Modelo Cascata
 
