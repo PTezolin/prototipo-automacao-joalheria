@@ -1,7 +1,8 @@
 # Levantamento de Requisitos
 
 O levantamento de requisitos foi conduzido com base na observação das rotinas da joalheria e em conversas diretas com os funcionários envolvidos nas etapas de registro e acompanhamento de consertos. A partir dessa análise, foi possível identificar um conjunto de necessidades fundamentais que norteiam o desenvolvimento do sistema proposto, visando substituir os processos manuais por uma solução digital mais eficiente, segura e adaptada à realidade da empresa.
-<br>
+<br><br>
+
 
 ## Necessidades do Sistema
 
